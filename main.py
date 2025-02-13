@@ -21,5 +21,11 @@ def welcome():
     else:
         print(f"WARNING!! {name}, you are not authorized!")
         exit_program()
-    
+
+def write_log():
+
+def read_log():
+
+def status():
+
 welcome()
